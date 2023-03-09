@@ -1,5 +1,6 @@
+===========================================================================
 #Project - COVID-19 Analysis [EDA &amp; Visualization]
-
+===========================================================================
 ## DATA UNDERSTANDING
 
 ### Importing libraries & data
@@ -49,7 +50,7 @@ df_world['total_cases'].max()
 df_world_ratio = df_world['total_cases'].max() / df_world['population'].max()
 df_world_ratio
 ```
-===========================================================================================
+===========================================================================
 
 ## VISUALLIZING WORLD DATA
 ```python
