@@ -1,6 +1,5 @@
-===========================================================================
-#Project - COVID-19 Analysis [EDA &amp; Visualization]
-===========================================================================
+# Project - COVID-19 Analysis [EDA &amp; Visualization]
+
 ## DATA UNDERSTANDING
 
 ### Importing libraries & data
